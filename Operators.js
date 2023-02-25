@@ -9,3 +9,4 @@ const b = age > 18;
 
 console.log(age >= 18);
 console.log(typeof b);
+
