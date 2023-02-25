@@ -2,11 +2,11 @@
 
 var email = "erik@academlo.com";
 
-function prinEmail() {
-  var lastname = "Alvarez";
+function tEmail() {
+  var lastName = "Alvarez";
   console.log(email);
-  console.log(lastname);
+  console.log(lastName);
 }
 
 console.log(email);
-console.log(lastname);
+console.log(lastName);
